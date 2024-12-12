@@ -5,8 +5,8 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-I typically host an undergraduate intern through the [CIMES summer research program](https://cimes.princeton.edu/education-outreach/intern-program) each year. Applications are due in January.
+I have no plans to take an intern/postdoc in 2025.
 
-Princeton/GFDL also has a [postdoc/visiting scholar program](https://cimes.princeton.edu/job-opportunities/postdoctoral-and-research-scientist-program), with applications due each December. Please reach out if you are interested, as there may be opportunities within the glaciology group.
+However, opportunities to work with other scientists at GFDL include the [CIMES summer research program](https://cimes.princeton.edu/education-outreach/intern-program) for undegrads and the [postdoc/visiting scholar program](https://cimes.princeton.edu/job-opportunities/postdoctoral-and-research-scientist-program).
 
 {% include base_path %}
