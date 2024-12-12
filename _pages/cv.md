@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV (pdf)](./../files/Huth_CV_2023.pdf)
+[Full CV (pdf)](./../files/Huth_CV_2024.pdf)

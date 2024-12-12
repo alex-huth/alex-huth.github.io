@@ -29,7 +29,7 @@ Observed and simulated breakup of iceberg A68a
 
 ## Ice sheets
 
-I am a developer of MOM6-IS, a fully-coupled ice-sheet component for GFDL climate models that is embedded within the ocean model MOM6 (publication in prep).
+I am a developer of MOM6-IS, the ice-sheet component of GFDL coupled models that is embedded within the ocean model MOM6 (publication in prep).
 
 I am also working on methods to simulate calving of large icebergs. These methods combine [damage mechanics](https://doi.org/10.1029/2020MS002292) and the particle-based [material point method](https://doi.org/10.1029/2020MS002277) (which was more famously used for animating snow in Disney's *Frozen*). Here, damage captures crevassing and full-thickness fracturing (rifting) that can lead to calving. I recently simulated the calving of iceberg A68 from the Larsen C ice shelf (see below). Subsequent simulations revealed how ice mélange and contact between rift flanks can control where rifts propagate, and therefore, the size of any resulting icebergs. See [manuscript](https://doi.org/10.1017/jog.2023.71).
 
